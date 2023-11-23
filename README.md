@@ -1,3 +1,4 @@
+## Read Me
 CS-502 Deep Learning Project
 Louis-Alexandre Leger, 311047, Team 44
 For the end of semester project, I have chosen option #3: “Research in the wild”. The
